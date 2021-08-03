@@ -1,5 +1,6 @@
 <h1 align="center">UNO for Microsoft Teams</h1>
 <h2 align="center">Two player online game of UNO</h2>
+<h3 align="center">Get the app at https://www.microsoft.com/en-ww/microsoft-teams/log-in</h3>
 <h3 align="center">Live at https://uno-ms-teams.herokuapp.com/</h3>
 
 <img src="client/src/assets/logo.png" alt="UNO Logo" width="33%" align="center" />
