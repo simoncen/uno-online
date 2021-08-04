@@ -27,6 +27,7 @@ This two-player online version of the game was built with [React](https://reactj
 4. That's it! Enjoy the game and remember, no toxicity!
 
 ## 🎮 Screenshots
+<img src="screenshots/Screenshot-5.png" alt="Screenshot 5" width="75%" align="center" />
 <img src="screenshots/Screenshot-4.png" alt="Screenshot 4" width="75%" align="center" />
 <img src="screenshots/Screenshot-2.png" alt="Screenshot 2" width="75%" align="center" />
 <img src="screenshots/Screenshot-3.png" alt="Screenshot 3" width="75%" align="center" />
